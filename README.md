@@ -8,4 +8,5 @@ for x in range(10):
 		print("Every detail its data")
 
 print("Done!")
-
+print()
+print("Some arbitrary changes") 
