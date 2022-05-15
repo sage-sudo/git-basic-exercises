@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 print("I love working in the terminal,\nit makes me feel like a Pro.")
 
 for x in range(10):
@@ -11,6 +10,6 @@ for x in range(10):
 print("Done!")
 print()
 print("Some arbitrary changes") 
-=======
+
 booya
->>>>>>> history
+
